@@ -1,0 +1,7 @@
+streamlit>=1.40
+ultralytics>=8.3,<9
+opencv-python-headless
+pillow
+numpy
+pandas
+twilio
